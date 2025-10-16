@@ -1,5 +1,5 @@
 # Videójáték ár-érték arányai
-A projektem megmutatja hogy az indie és a AAA játékok ár-érték arányát hasonlítja össze
+A projektem megmutatja hogy az indie és a AAA játékok ár-érték arányában mekorra külömbségek vannak
 
 ## Használt nyelvek
 - HTML
